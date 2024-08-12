@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/FreeLeh/GoFreeDB/internal/google/sheets"
+	"github.com/achyuthcodes30/GoFreeDB/internal/google/sheets"
 )
 
 type whereInterceptorFunc func(where string) string

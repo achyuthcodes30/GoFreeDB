@@ -5,7 +5,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/FreeLeh/GoFreeDB/internal/google/sheets"
+	"github.com/achyuthcodes30/GoFreeDB/internal/google/sheets"
 	"github.com/stretchr/testify/assert"
 )
 

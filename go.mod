@@ -1,4 +1,4 @@
-module github.com/FreeLeh/GoFreeDB
+module github.com/achyuthcodes30/GoFreeDB
 
 go 1.18
 

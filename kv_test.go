@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/FreeLeh/GoFreeDB/google/auth"
+	"github.com/achyuthcodes30/GoFreeDB/google/auth"
 	"github.com/stretchr/testify/assert"
 )
 
